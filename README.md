@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Conrad! 👋
 
-<!--
-**ContradNamiseb/ContradNamiseb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year IT Diploma student at Triumphant College, passionate about coding and building projects with **C++**, **Java**, and **HTML**. I love contributing to open-source, supporting Chelsea FC, and playing chess.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Languages: C++, Java, HTML&CSS
+- Tools: Git, MySQL, GitHub Actions, VS Code
+- Interests: software development, mobile apps and AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+- [Hotel Website](https://github.com/ContradNamiseb/Hotel-website): A responsive website front built with HTML and CSS.
+
+## ⚽ Fun Fact
+I write code and cheer for Chelsea FC! Connect with me on [X](https://x.com/conrad_pantwan).
+
+📫 Reach me at: [cenamiseb@gmail.com]
