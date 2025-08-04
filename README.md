@@ -13,4 +13,4 @@ I'm a 2nd-year IT Diploma student at Triumphant College, passionate about coding
 ## ⚽ Fun Fact
 I write code and cheer for Chelsea FC! Connect with me on [X](https://x.com/conrad_pantwan).
 
-📫 Reach me at: [cenamiseb@gmail.com]
+📫 Reach me at: [Mail](cenamiseb@gmail.com).
